@@ -1,8 +1,6 @@
 /*
-
 Objective:
-Practice using the .length property by calculating the length of
-multiple predefined strings and assigning the results to specific variables.
+Practice using the .length property by calculating the length of multiple predefined strings and assigning the results to specific variables.
 
 Instructions:
 You will be provided with several predefined string variables.
@@ -10,7 +8,6 @@ Your task is to:
   - Use the .length property to calculate the length of each string.
   - Assign the length of each string to its corresponding length variable.
   - Ensure that each length variable contains the correct value.
-
 */
 
 // Starter Code (Pre-filled):
@@ -25,6 +22,9 @@ let lengthTwo;   // Length of stringTwo
 let lengthThree; // Length of stringThree
 
 // Your code here
+lengthOne = stringOne.length;
+lengthTwo = stringTwo.length;
+lengthThree = stringThree.length;
 
 
 
